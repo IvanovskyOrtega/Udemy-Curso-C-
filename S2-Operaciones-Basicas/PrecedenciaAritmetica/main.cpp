@@ -15,5 +15,9 @@ int main()
     cout << 14-(8/2*3)+1 << endl;   /**  3 **/
     cout << 14-8/2*(3+1) << endl;   /** -2 **/
     cout << (14-8)/2*(3+1) << endl; /** 12 **/
+    /**
+        Operaciones con el mismo peso re resuelven de
+        izquierda a derecha.
+    **/
     return 0;
 }
