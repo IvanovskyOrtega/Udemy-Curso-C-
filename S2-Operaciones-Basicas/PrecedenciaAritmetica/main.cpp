@@ -4,10 +4,11 @@ using namespace std;
 
 int main()
 {
-    /** PRECEDENCIA ARITMÉTICA **/
+    /** PRECEDENCIA ARITMÃ‰TICA **/
+    
     /**
-        1. Operaciones entre paréntesis
-        2. Multiplicación, división y módulo
+        1. Operaciones entre parÃ©ntesis
+        2. MultiplicaciÃ³n, divisiÃ³n y mÃ³dulo
         3. Suma y resta
     **/
     cout << 14-8/2*3+1 << endl;     /**  3 **/
