@@ -8,7 +8,7 @@ int main(){
         Escriba un programa que nos permita
         hallar el área de un triángulo.
     **/
-    double base, altura, area;
+    float base, altura, area;
     cout << "Ingrese el tamanio de la base: " << endl;
     cin >> base;
     cout << "Ingrese el la altura: " << endl;
