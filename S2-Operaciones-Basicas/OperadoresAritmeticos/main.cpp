@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     /**
-        OPERADORES MATEMÁTICOS
+        OPERADORES MATEMÁTICOS/ARITMÉTICOS
         + : SUMA
         - : RESTA
         * : MULTIPLICACIÓN
