@@ -5,9 +5,9 @@ using namespace std;
 int main (){
     /** EJERCICIO 3 **/
     /**
-        En un estacionamiento cobran $1.50 por hora o fracción.
-        Diseñe un programa que determine cuanto debe pagar un cliente
-        por el estacionamiento e su vehículo, conociendo el tiempo de
+        En un estacionamiento cobran $1.50 por hora o fracciÃ³n.
+        DiseÃ±e un programa que determine cuanto debe pagar un cliente
+        por el estacionamiento de su vehÃ­culo, conociendo el tiempo de
         estacionamiento en horas y minutos.
     **/
     int horas, minutos;
